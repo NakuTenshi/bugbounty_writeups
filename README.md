@@ -2,7 +2,6 @@
 
 | Read | Writeup |
 |------|---------|
-| [ ] | [Traversing the path to RCE](<https://hawkinsecurity.com/2018/08/27/traversing-the-path-to-rce/>) |
 | [ ] | [Android Pentesting Lab (Step by Step guide for beginners!)](<https://medium.com/bugbountywriteup/android-pentesting-lab-4a6fe1a1d2e0>) |
 | [ ] | [Zero Day RCE on Mozilla's AWS Network](<https://blog.assetnote.io/bug-bounty/2019/03/19/rce-on-mozilla-zero-day-webpagetest/>) |
 | [ ] | [Exploiting “Google BigQuery” SQLI](<https://hackemall.live/index.php/2020/03/31/akamai-web-application-firewall-bypass-journey-exploiting-google-bigquery-sql-injection-vulnerability/>) |
